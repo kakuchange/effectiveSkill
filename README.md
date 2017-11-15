@@ -15,4 +15,12 @@ interestingSkill for programmer
 ##### git 命令总结
 
 ### 五、[effective vim](https://github.com/kakuchange/interestingSkill/blob/master/effectiveVim.md)
-高效使用Vim
+#### 高效使用Vim 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+###### 打卡 
