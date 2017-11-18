@@ -2,6 +2,8 @@
 
 ###### 之前因为不了解sublime，许多快捷键不知道，一度想要换编辑器，但电脑太卡用不了Atom。于是看了许多快捷键用法，感觉好用多了...
 
+[Essential Sublime skills](http://aslanbakan.com/en/blog/33-essential-sublime-text-plugins-for-all-developers/)
+
 ### 设置部分
 - F11的界面全屏，或shift + F11的输入部分真全屏~ 
 
