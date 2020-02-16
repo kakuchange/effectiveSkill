@@ -129,9 +129,11 @@ marge 特点：自动创建一个新的commit
 优点：记录了真实的commit情况，包括每个分支的详情
 缺点：因为每次merge会自动产生一个merge commit，所以在使用一些git 的GUI tools，特别是commit比较频繁时，看到分支很杂乱。
 
-合并时如果出现冲突需要按照如下步骤解决
+合并时如果出现冲突
+解决: 方法
+git pull --rebase
 1.修改冲突部分
 2.git add
 3.git rebase --cotinue
 4.（如果第三步无效可以执行  git rebase --skip）
-5.不要在git add 之后习惯性的执行 git commit命令
+5.不要在git add 之后习惯性的执行 git commit命令, "git add"命令去更新这些内容的索引(index)
